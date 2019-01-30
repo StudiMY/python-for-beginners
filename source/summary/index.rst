@@ -4,7 +4,7 @@ Summary
 
 **Congratulations**, you have leveled up! By now, we hope you have experienced solving problems with Python. 
 
-You might have realized how easy for humans to solve it but extremely difficult to break down solutions into step-by-step instructions for machine to understand.
+You might realize how easy it is for humans to do so but it is extremely difficult to break down solutions into step-by-step instructions for machines to understand.
 
 As you practice to solve more problems, you'll get better at it. Don't give up!
 

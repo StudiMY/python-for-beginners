@@ -1,16 +1,17 @@
 ============
 Introduction
 ============
-There are two main topics for understanding programming:- 
 
-1. Environment - the part that's installed on the computer/machine 
-2. Language - the part that's installed in the programmer's head 
+There are two main topics for understanding programming:
 
-In order to learn effectively, this course will:- 
+1. Environment - the part installed on the computer/machine.
+2. Language - the part installed in the programmer's head.
 
-* Code in the Cloud - we will NOT go into Environment
-* Focus on Problem Solving - break down problem into mind-size bites (decompose)
-* Encourage critical thinking through questions / exploration (tinker on your own)
+In order to learn effectively, this course will:
+
+* Code in the Cloud - we will NOT go into Environment.
+* Focus on Problem Solving - break down problem into bite-sized pieces (decompose).
+* Encourage critical thinking through questions/exploration (tinker on your own).
 
 Let's begin !
 

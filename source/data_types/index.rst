@@ -3,11 +3,11 @@ Data Types
 ===========
 The Bigger Picture
 -------------------
-As you know, everything in a computer is represented as **1s and 0s**. If you are not sure how computer works, 
-we highly recommend you to watch `this interactive video <https://www.khanacademy.org/computing/computer-science/how-computers-work2/v/khan-academy-and-codeorg-binary-data>`_.
+As you may know, everything in a computer is represented as **1s and 0s**. If you are not sure how computers work, 
+we highly recommend that you watch `this interactive video <https://www.khanacademy.org/computing/computer-science/how-computers-work2/v/khan-academy-and-codeorg-binary-data>`_.
 
-In this topic, we explore **why we need Data Types**. Key question is, if a computer only 
-understands binary (1s and 0s), how does a human communicates with it? 
+In this topic, we explore **why we need Data Types**. The key question is, if a computer only 
+understands binary digits (1s and 0s), how can humans communicate with it? 
 
 Syntax and Semantics - Learning Python Grammar
 ----------------------------------------------
@@ -42,8 +42,8 @@ Now try this in IDLE.
 
 .. topic:: FAQ / Common Issues
 
-    | 1. Help ! I got bunch of errors typing stuff inside ``type()`` built-in function.  
-    | It's okay! Try to read and make sense the errors shown. Part of learning is to learn how to read error stack.
+    | 1. Help! I got bunch of errors when typing stuff inside the ``type()`` built-in function.  
+    | It's okay! Try to read and make sense the errors shown. Part of learning how to code is learning how to read the error stack.
     
     | 2. How can I possibly know all the built-in functions and data types in Python?  
     | Refer to :ref:`Quick Resources <quick-resources>` for all the built-in functions and data types available in Python.
@@ -52,23 +52,24 @@ Critical Thinking - Discussions
 --------------------------------
 1. What other types you found besides the common ``int``, ``float``, ``str``, ``bool``, ``None`` type ? 
 2. Can you type in Chinese or other languages ? What type is it?
-3. If everything in computer is represented by 1s and 0s, how does it represent:-
+3. If everything in computer is represented by 1s and 0s, how does it represent:
     
    * 10
    * 3.1243
    * "hello world"
    * "你好"
+
 4. Can you imagine how images, files, sounds and other inputs get represented in Python?
 5. Can you appreciate the value of having data types now ? 
 6. Can you think of other data types which needs to be represented ?
 
 .. topic:: Fun Facts
 
-    Variables ``num1`` and ``num2`` above are intuitive to us cause we learnt them in Math class. It's simple algebra!
+    Variables ``num1`` and ``num2`` above are intuitive to us because we learnt them in Math class. It's simple algebra!
 
 Best Practices
 ---------------
-1. You might already notice by now Python has its documentation stored at https://docs.python.org/3/
+1. You might have already noticed by now that Python has its documentation stored at https://docs.python.org/3/
 
 Remember
 --------

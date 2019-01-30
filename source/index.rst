@@ -15,23 +15,23 @@ What You Will Learn
 
 .. topic:: Idea #1 - Data Types
 
-    How does human interacts with machine if it only understands 1s and 0s ? Data types allow help to represent numbers, strings, etc in human readable manner. Learn some of the basics built-in data types in Python.
+    How do humans interact with machines if it only understands 1s and 0s? Data types allow us to represent numbers, strings, etc in human readable manner. Learn some of the basic built-in data types in Python.
 
-.. topic:: Idea #2 - Variable, Statement and Expression
+.. topic:: Idea #2 - Variables, Statements and Expressions
 
-    Program needs a mechanism to "remember" instructions. Here is where you'll learn how to do it and the difference type of instructions - statements vs expressions.
+    A program needs a mechanism to "remember" instructions. Here is where you'll learn how to do it and the different types of instructions - statements vs expressions.
 
-.. topic:: Idea #3 - Flow Control
+.. topic:: Idea #3 - Control Flow
 
-    Program executes from top-down approach but what if you want to take control of how it flows? Conditional statement is one approach. Learn about using various operators to form conditions.
+    A program executes instructions from a top-down approach, but what if you wanted to take control of how it flows? Conditional statement is one approach. Learn about using various operators to form conditions.
 
 .. topic:: Idea #4 - Function
 
-    Function is the core idea of breaking down problem into mind-size bite. Get an idea of how program works with function - input, process, output.
+    Functions are a core idea of breaking down problems into bite-sized pieces. Get an idea of how a program works with functions - input, process, output.
 
 .. topic:: Idea #5 - String Manipulations
 
-    Strings in Python is very powerful - all symbols you can think of like Chinese, Arabic and even emojis can be represented as String in Python. Explore the built-in methods and other tricks to manipulate data in Strings.
+    Strings in are very powerful in Python - all the symbols you can think of, even Chinese or Arabic characters, and even emojis can be represented as Strings in Python. Explore the built-in methods and other tricks to manipulate Strings in Python.
 
 .. toctree::
    :maxdepth: 2

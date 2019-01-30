@@ -1,9 +1,9 @@
-=================================
-Variables, Statement & Expression
-=================================
+====================================
+Variables, Statements & Expressions
+====================================
 The Bigger Picture
 ------------------
-In a nutshell, a computer program takes an input, store some values in the memory, do some processing and output the results. 
+In a nutshell, a computer program takes an input, stores some value in memory, do some processing and finally outputs the result. 
 
 Let's talk about storing values. How do you do that? 
 

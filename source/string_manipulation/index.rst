@@ -6,7 +6,7 @@ The Bigger Picture
 
 Python 3 strings are sequences of Unicode, not bytes. What is Unicode? Watch `this Tedx Talk <https://www.youtube.com/watch?v=IRdupNXpm8k>`_.
 
-So, what does it means if Python strings uses UTF-8 unicode encoding? 
+So, what does it mean if Python strings uses UTF-8 unicode encoding? 
 Hint: Remember we asked earlier in **Data Types** topic how certain symbols like Chinese characters are represented in binary? 
 
 Syntax and Semantics - Learning Python Grammar
