@@ -1,9 +1,9 @@
 ============
-Flow Control
+Control Flow
 ============
 The Bigger Picture
 ------------------
-Program executes from top-down approach but what if you want to take control of how it flows?
+Programs execute from a top-down approach but what if you want to take control of how it flows?
 
 This topic focuses on Python control flow statements.
 
@@ -41,7 +41,7 @@ Explore on your own to try the grasp how these flow statements work. Open up IDL
 ...    print("b is the youngest!")
 ... else:
 ...    print("c is the youngest!")
- 
+
 Critical Thinking - Discussions
 -------------------------------
 1. How do you form a condition ?

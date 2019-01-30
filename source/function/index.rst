@@ -3,7 +3,7 @@ Functions
 =========
 The Bigger Picture
 ------------------
-Problem solving is about **breaking down problem into mind-size bites** - decomposing. Function allows us to essentially do 
+Problem solving is about **breaking down problems into bite-sized pieces** - or rather, decomposing. Function allows us to essentially do 
 just that - divide the code into smaller chunks. What comes to mind when it comes to ``functions`` ? Hint: You 
 learn it in school! 
 

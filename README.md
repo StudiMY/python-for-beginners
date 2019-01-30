@@ -1,16 +1,17 @@
 # studi.my: 101 Beginning Python
+
 The curriculum for studi.my: Beginning Python
 
-This is the curriculum material to learn basic Python programming.
+This is the syllabus for studi.my's basic Python programming.
 Table Of Contents:
 
-- Introduction
-- Data Types
-- Variables, Statement & Expression
-- Flow Control
-- Functions
-- String Manipulation
-- Summary
+-   Introduction
+-   Data Types
+-   Variables, Statement & Expression
+-   Control Flow
+-   Functions
+-   String Manipulation
+-   Summary
 
 ## Copyright and licenses
 
@@ -24,7 +25,8 @@ Licensed under the Creative Commons Attribution 4.0 International Public License
 
 Before you can build the documentation, you'll need to have Sphinx on you
 system. We suggest that you do it witihin a virtualenv, like so:
-```
+
+```bash
 $ virtualenv -p python3 $HOME/py3
 $ $HOME/py3/activate
 $ which pip
@@ -34,6 +36,4 @@ $ pip install Sphinx
 
 ### Create html pages
 
-```
-$ make html
-```
+`$ make html`
